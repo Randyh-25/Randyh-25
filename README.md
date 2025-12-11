@@ -27,7 +27,7 @@
 <h3 align="center">TooMuchPixels</h3>
 <div align="center">  
 <a href="https://github.com/Randyh-25/TooMuchPixels">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Randyh-25&repo=TooMuchPixels&theme=tokyonight" />
+<img src="https://raw.githubusercontent.com/Randyh-25/TooMuchPixels/refs/heads/main/img/TooMuchPixels.png" />
 </a>
 <p><strong>Python</strong> - Image processing project ⭐ 2</p>
 </div>
@@ -46,8 +46,8 @@
 <td width="50%">
 <h3 align="center">Portofolio</h3>
 <div align="center">  
-<a href="https://github.com/Randyh-25/Portofolio">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Randyh-25&repo=Portofolio&theme=tokyonight" />
+<a href="https://www.randyhendriyawan.my.id/">
+<img src="https://raw.githubusercontent.com/Randyh-25/Portofolio/refs/heads/main/assets/profile.jpg" />
 </a>
 <p><strong>TypeScript</strong> - Personal portfolio</p>
 </div>
