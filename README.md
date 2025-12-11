@@ -46,7 +46,17 @@
 </tr>
 </table>
 
+---
 
+## 🌐 Featured Web Projects
+
+- **[Portofolio](https://www.randyhendriyawan.my.id/)** - Personal portfolio website | TypeScript
+- **[DigiVill](https://github.com/Randyh-25/Project-DigiVill)** - Digital village system | TypeScript
+- **[WAAG (Weather at a Glance)](https://uts-pemweb-122140171.vercel.app/)** - Weather dashboard with React + Vite | React
+- **[Space3D](https://space3-d-umber.vercel.app/)** - 3D learning project with Three.js | JavaScript
+- **[CPU-Scheduling](https://github.com/Randyh-25/CPU-Scheduling)** - CPU scheduling visualizer | JavaScript
+
+---
 
 <div align="center">
 
