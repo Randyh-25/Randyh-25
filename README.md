@@ -13,7 +13,11 @@
 
 ## 📊 GitHub Stats
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Randyh-25&theme=tokyonight&hide_border=false)](https://github.com/Randyh-25)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Randyh-25&theme=dark&hide_border=true)
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Randyh-25&show_icons=true&theme=dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Randyh-25&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
